@@ -42,7 +42,7 @@ on:
           - 'true'
           - 'false'
 
-permisions:
+permissions:
   contents: read
 
 env:
